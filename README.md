@@ -9,7 +9,7 @@ Each project focuses on a specific concept and includes source code, a brief pro
 | Project | Concepts | Status |
 |---|---|---|
 | [OOP Basics — Student Profile](01-oop-basics-student-profile/) | Classes, objects, fields, references, instance methods, constructors, and `this` | Code completed |
-| Encapsulation — Bank Account | Private fields, controlled access, and validation | Planned |
+| [Encapsulation — Bank Account](02-encapsulation-bank-account/) | Private fields, controlled access, and validation | Code Completed |
 | Inheritance — Employee Details | Parent and child classes, `extends`, and `super` | Planned |
 | Polymorphism — Shape Calculator | Method overriding and parent-type references | Planned |
 | Abstraction — Notification System | Interfaces and different implementations | Planned |
